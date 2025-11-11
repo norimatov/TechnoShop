@@ -4,7 +4,6 @@ import { useCart } from "@/components/store/useCart";
 import useOrder from "@/components/store/useOrder";
 import { Button } from "@/components/ui/button";
 import { Checkbox } from "@/components/ui/checkbox";
-import { ProductType } from "@/types";
 import { BrushCleaning, Minus, Plus, Trash2 } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
